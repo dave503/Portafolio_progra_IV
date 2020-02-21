@@ -1,0 +1,93 @@
+#h{
+	color: #0320FC;
+	font-size: 50px;
+	text-shadow: 5px 2px 4px red;
+}
+body{
+	background-image: url("img/background.jpg");
+}
+header{
+	background-image: url("img/code.jpg");
+    background-size: cover;
+    text-align: center;
+}
+#hea{
+	background-color: #fff;
+    padding: 10px;
+    margin-bottom: 10px;
+    border-radius: 20px;
+}
+
+ul{
+	list-style-type: none;
+	margin: 0;
+	padding: 0;
+	overflow: hidden;
+	background-color: #0202F6;
+	border-radius: 10px;
+}
+li{
+	float: left;
+	font-family: Arial black;
+	font-size: 15px;
+}
+li a{
+	display: inline-block;
+	color: white;
+	text-align: center;
+	padding: 14px 16px;
+	text-decoration: none;
+}
+li a:hover{
+	background-color: #FD0404;
+}
+.logo{
+	width: 550px;
+	height: 200px;
+}
+.image{
+	width: 350px;
+	height: 300px;
+}
+.eva{
+	width: 600px;
+	height: 1000px;
+}
+
+.mmm{
+	font-family: arial black;
+	font-size: 30px;
+}
+.sec{
+	text-align: center;
+	background-color: #858585;
+    padding: 10px;
+    margin-bottom: 10px;
+    border-radius: 20px;
+}
+.titu{
+	font-family: Gungsuh;
+	color: #2227F3;
+	font-size: 45px;
+}
+.pa{
+	font-family: Gungsuh;
+	color: black;
+	text-align: left;
+	font-size: 25px;
+}
+.nombre{
+	font-size: 45px;
+	color: black;
+
+}
+.footer{
+	text-align: center;
+	background-color: #6A6868;
+    padding: 10px;
+    margin-bottom: 10px;
+    border-radius: 20px;
+}
+.visor{
+	border-radius: 10;
+}
